@@ -153,6 +153,12 @@
         "category":"Node.JS",
         "image":"chatserver.png",
         "url":"https://github.com/rhaegar453/NodeChatServer"
+      },
+      {
+        "title":"Foodie Point",
+        "category":"React.js",
+        "image":"foodiePoint.png",
+        "url":"https://github.com/rhaegar453/foodiepoint"
       }
     ]
   },
