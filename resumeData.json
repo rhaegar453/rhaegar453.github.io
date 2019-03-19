@@ -159,6 +159,12 @@
         "category":"React.js",
         "image":"foodiePoint.png",
         "url":"https://github.com/rhaegar453/foodiepoint"
+      },
+      {
+        "title":"News Shorts",
+        "category":"React.js",
+        "image":"newsshorts.png",
+        "url":"https://github.com/rhaegar453/shortnewsapp"
       }
     ]
   },
