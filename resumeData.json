@@ -4,7 +4,7 @@
     "occupation":"Full Stack Developer",
     "description":"Looking for an opportunity where I can contribute towards upcoming technology innovations and manage key projects that impact the organization as well as broaden my scope of learning.",
     "image":"profilepic.jpg",
-    "bio":"I am a Full Stack developer and work mainly on technologies like React, MySQL, Express,Node.js and AWS. Alongside I dabble into other new and exciting technologies like Deep Learning and Machine Learning. In my free time, I like coding, travelling and reading books.",
+    "bio":"I am a Full Stack developer and work mainly on technologies like React, MySQL, Express,Node.js and AWS. Alongside I dabble into other new and exciting technologies. In my free time, I like coding, travelling and reading books.",
     "contactmessage":"Do write to me",
     "email": "shivarajapple@gmail.com",
     "phone": "+91 7406204352",
@@ -14,7 +14,7 @@
       "state":"Karnataka",
       "zip": "560103"
     },
-    "resumedownload":"https://drive.google.com/file/d/1iXeD4BP2faavD0nDs85tYYEprbB12kaH/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1UZzAq4kNrZelvr4kHjklkw9vQY683JtA/view?usp=sharing",
     "social":[
       {
         "name":"quora",
@@ -40,7 +40,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"BVB College of Engineering and Technology",
@@ -49,6 +48,11 @@
        }
     ],
     "work":[
+      { 
+        "company":"Routematic",
+        "title":"Product Engineer", 
+        "years":"April 2019- October 2019"
+      }, 
       {
         "company":"Accenture",
         "title":"Associate Software Engineer",
@@ -63,12 +67,8 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
         "name":"ReactJs",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"CSS",
@@ -80,7 +80,7 @@
       },
       {
         "name":"MongoDB",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"MySQL",
@@ -91,39 +91,21 @@
         "level":"60%"
       },
       {
-        "name":"Deep Learning for Computer Vision",
-        "level":"80%"
-      },
-      {
         "name":"Python",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"Angular 4+",
         "level":"60%"
-      }
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
     ]
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Dog Breed Classifier",
-        "category":"Deep Learning Nanodegree",
-        "image":"dogbreed.jpeg",
-        "url":"#portfolio"
-      },
-      {
-        "title":"TV Script Generation using RNNs",
-        "category":"Deep Learning RNN",
-        "image":"tvscript.png",
-        "url":"#portfolio"
-      },
-      {
-        "title":"Generate Faces using GANs",
-        "category":"Deep Learning GANs",
-        "image":"facegen.jpeg",
-        "url":"#portfolio"
-      },
       {
         "title":"Task Management Application using React",
         "category":"A React based Task Management application",
@@ -135,12 +117,6 @@
         "category":"A simple timer application that I created using ReactJS",
         "image":"timer.jpeg",
         "url":"https://samplesimpletimerapp.herokuapp.com/"
-      },
-      {
-        "title":"IMDB 250 Knowledge Based recommender",
-        "category":"Machine Learning Recommender Systems",
-        "image":"imdb.jpeg",
-        "url":"https://github.com/rhaegar453/Recommender-Systems/tree/master/IMDB250"
       },
       {
         "title":"Face Detection Database",
